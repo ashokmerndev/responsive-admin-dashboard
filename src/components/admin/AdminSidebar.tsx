@@ -67,7 +67,7 @@ export function AdminSidebar() {
                 <span className="text-primary-foreground font-bold text-sm">H</span>
               </div>
               <div>
-                <h1 className="text-sm font-bold text-sidebar-foreground">Hyundai</h1>
+                <h1 className="text-sm font-bold text-sidebar-foreground">VARSHINI HYUNDAI</h1>
                 <p className="text-xs text-sidebar-foreground/70">Spares Admin</p>
               </div>
             </motion.div>
